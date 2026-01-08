@@ -1,7 +1,6 @@
 #-------------------------------------------------------#
 #------------- Theo Vinicius Souza Palermo -------------#
-#----- Dinamica dos Fluidos Computacional: Q2.2025 -----#
-#-------------- Trabalho Final - Bocal CD --------------#
+#--------------- Quasi 1D Nozzle Problem ---------------#
 #-------------------------------------------------------#
 
 import numpy as np
