@@ -1,6 +1,6 @@
 # Quasi-1D CD Nozzle — Steger-Warming FVS Solver
 
-Numerical solver for compressible, inviscid, quasi-1D flow through a convergent-divergent nozzle, implemented as the final project of the **Computational Fluid Dynamics** course (ESZS 035-17 — 2025.2), Universidade Federal do ABC.
+Numerical solver for compressible, inviscid, quasi-1D flow through a convergent-divergent nozzle.
 
 The solver uses the **Steger-Warming Flux Vector Splitting** scheme on a finite volume framework and is validated against the isentropic analytical solution, with automatic detection of the flow regime (subsonic, supersonic, or internal normal shock).
 
